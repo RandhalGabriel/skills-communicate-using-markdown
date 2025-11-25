@@ -8,3 +8,6 @@
 var myVar = "I will be the best!";
 ```
 
+- [ ] Ative as páginas do GitHub
+- [ ] Faça o esboço do meu portfólio
+- [ ] Me apresente ao mundo
